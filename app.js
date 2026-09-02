@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 2. EFECTO DE ESCRITURA DINÁMICA (TYPING EFFECT)
     // ==========================================================================
     const typingText = document.getElementById('typingText');
-    const words = ['Fullstack', 'Backend', 'Software', 'Web'];
+    const words = ['Full Stack', 'React.js & Node.js', 'Ing. de Sistemas', 'Docente de Sistemas'];
     let wordIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
